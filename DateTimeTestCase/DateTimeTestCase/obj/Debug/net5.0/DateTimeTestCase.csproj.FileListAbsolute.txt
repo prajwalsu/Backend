@@ -1,0 +1,16 @@
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\obj\Debug\net5.0\DateTimeTestCase.csproj.AssemblyReference.cache
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\obj\Debug\net5.0\DateTimeTestCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\obj\Debug\net5.0\DateTimeTestCase.AssemblyInfoInputs.cache
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\obj\Debug\net5.0\DateTimeTestCase.AssemblyInfo.cs
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\obj\Debug\net5.0\DateTimeTestCase.csproj.CoreCompileInputs.cache
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\bin\Debug\net5.0\DateTimeTestCase.exe
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\bin\Debug\net5.0\DateTimeTestCase.deps.json
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\bin\Debug\net5.0\DateTimeTestCase.runtimeconfig.json
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\bin\Debug\net5.0\DateTimeTestCase.runtimeconfig.dev.json
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\bin\Debug\net5.0\DateTimeTestCase.dll
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\bin\Debug\net5.0\ref\DateTimeTestCase.dll
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\bin\Debug\net5.0\DateTimeTestCase.pdb
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\obj\Debug\net5.0\DateTimeTestCase.dll
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\obj\Debug\net5.0\ref\DateTimeTestCase.dll
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\obj\Debug\net5.0\DateTimeTestCase.pdb
+C:\Users\107015\Desktop\Backend.NET\DateTimeTestCase\DateTimeTestCase\obj\Debug\net5.0\DateTimeTestCase.genruntimeconfig.cache

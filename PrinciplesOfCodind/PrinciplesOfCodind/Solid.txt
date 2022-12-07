@@ -1,0 +1,12 @@
+﻿				*SOLID*
+
+S-A class should perform single work.
+
+O-Open close orinciple(Objects and entites only open for extension close for modification).
+
+L-Liskov substitution prniciple.
+   (child class replace parent class) 
+
+I-Interface segregation
+
+D-Dependcy inversion principle

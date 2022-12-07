@@ -1,0 +1,7 @@
+C:\Users\107015\Desktop\Backend.NET\uploadImage\uploadImage\obj\Debug\net5.0\uploadImage.csproj.AssemblyReference.cache
+C:\Users\107015\Desktop\Backend.NET\uploadImage\uploadImage\obj\Debug\net5.0\uploadImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107015\Desktop\Backend.NET\uploadImage\uploadImage\obj\Debug\net5.0\uploadImage.AssemblyInfoInputs.cache
+C:\Users\107015\Desktop\Backend.NET\uploadImage\uploadImage\obj\Debug\net5.0\uploadImage.AssemblyInfo.cs
+C:\Users\107015\Desktop\Backend.NET\uploadImage\uploadImage\obj\Debug\net5.0\uploadImage.csproj.CoreCompileInputs.cache
+C:\Users\107015\Desktop\Backend.NET\uploadImage\uploadImage\obj\Debug\net5.0\uploadImage.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\107015\Desktop\Backend.NET\uploadImage\uploadImage\obj\Debug\net5.0\uploadImage.MvcApplicationPartsAssemblyInfo.cache

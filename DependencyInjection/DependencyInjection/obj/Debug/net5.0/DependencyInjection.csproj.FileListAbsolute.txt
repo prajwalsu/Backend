@@ -1,0 +1,16 @@
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\bin\Debug\net5.0\DependencyInjection.exe
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\bin\Debug\net5.0\DependencyInjection.deps.json
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\bin\Debug\net5.0\DependencyInjection.runtimeconfig.json
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\bin\Debug\net5.0\DependencyInjection.runtimeconfig.dev.json
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\bin\Debug\net5.0\DependencyInjection.dll
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\bin\Debug\net5.0\ref\DependencyInjection.dll
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\bin\Debug\net5.0\DependencyInjection.pdb
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.AssemblyInfo.cs
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.dll
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\obj\Debug\net5.0\ref\DependencyInjection.dll
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.pdb
+C:\Users\107061\Desktop\.NET\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.genruntimeconfig.cache

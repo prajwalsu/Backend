@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "defaultRouter", "defaultRouter\defaultRouter.csproj", "{59EB7F6B-15B9-439E-9994-0C3482B6F913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59EB7F6B-15B9-439E-9994-0C3482B6F913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EB7F6B-15B9-439E-9994-0C3482B6F913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EB7F6B-15B9-439E-9994-0C3482B6F913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EB7F6B-15B9-439E-9994-0C3482B6F913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37406143-B970-4FED-A805-442C0F42D777}
+	EndGlobalSection
+EndGlobal

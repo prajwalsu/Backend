@@ -1,0 +1,30 @@
+﻿@{
+    @model IEnumerable<ASP.NetEmpty3.Model.Employee>
+    @foreach (var employee in Model) {
+        <div class="card">
+            <div class=" card text-dark bg-light mb-3" style="max-width: 25rem;">
+                <img class="card-img-top" src="~/images/emp.jpg" alt="Card image cap">
+                <div class="card-body">
+                    <h2 class="card-title text-capitalize text-success">@employee.id</h2>
+                    <p class="card-text text-success">@employee.name</p>
+                    <p class="card-text text-success">@employee.age</p>
+                    <p class="card-text text-success">@employee.email</p>
+
+                </div>
+                <div class="card-footer bg-transparent border-dark">
+                    <div class="card-footer text-center">
+                        <button class="btn btn-success"> VIEW</button>
+                        <button class="btn btn-primary">UPDATE </button>
+                        <button class="btn btn-danger"> DELETE</button>
+                        <button class="btn btn-dark"> DONE</button>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    }
+    @section Scripts {
+        <script src="~/js/CustomJavascript.js"></script>
+    }
+}

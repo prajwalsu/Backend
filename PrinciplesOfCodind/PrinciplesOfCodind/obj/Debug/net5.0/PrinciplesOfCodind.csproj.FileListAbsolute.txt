@@ -1,0 +1,5 @@
+C:\Users\107015\Desktop\Backend.NET\PrinciplesOfCodind\PrinciplesOfCodind\obj\Debug\net5.0\PrinciplesOfCodind.csproj.AssemblyReference.cache
+C:\Users\107015\Desktop\Backend.NET\PrinciplesOfCodind\PrinciplesOfCodind\obj\Debug\net5.0\PrinciplesOfCodind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107015\Desktop\Backend.NET\PrinciplesOfCodind\PrinciplesOfCodind\obj\Debug\net5.0\PrinciplesOfCodind.AssemblyInfoInputs.cache
+C:\Users\107015\Desktop\Backend.NET\PrinciplesOfCodind\PrinciplesOfCodind\obj\Debug\net5.0\PrinciplesOfCodind.AssemblyInfo.cs
+C:\Users\107015\Desktop\Backend.NET\PrinciplesOfCodind\PrinciplesOfCodind\obj\Debug\net5.0\PrinciplesOfCodind.csproj.CoreCompileInputs.cache

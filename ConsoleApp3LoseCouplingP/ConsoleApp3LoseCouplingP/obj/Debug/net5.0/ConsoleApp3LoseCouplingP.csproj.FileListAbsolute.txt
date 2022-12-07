@@ -1,0 +1,16 @@
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\bin\Debug\net5.0\ConsoleApp3LoseCouplingP.exe
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\bin\Debug\net5.0\ConsoleApp3LoseCouplingP.deps.json
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\bin\Debug\net5.0\ConsoleApp3LoseCouplingP.runtimeconfig.json
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\bin\Debug\net5.0\ConsoleApp3LoseCouplingP.runtimeconfig.dev.json
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\bin\Debug\net5.0\ConsoleApp3LoseCouplingP.dll
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\bin\Debug\net5.0\ref\ConsoleApp3LoseCouplingP.dll
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\bin\Debug\net5.0\ConsoleApp3LoseCouplingP.pdb
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\obj\Debug\net5.0\ConsoleApp3LoseCouplingP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\obj\Debug\net5.0\ConsoleApp3LoseCouplingP.AssemblyInfoInputs.cache
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\obj\Debug\net5.0\ConsoleApp3LoseCouplingP.AssemblyInfo.cs
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\obj\Debug\net5.0\ConsoleApp3LoseCouplingP.csproj.CoreCompileInputs.cache
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\obj\Debug\net5.0\ConsoleApp3LoseCouplingP.dll
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\obj\Debug\net5.0\ref\ConsoleApp3LoseCouplingP.dll
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\obj\Debug\net5.0\ConsoleApp3LoseCouplingP.pdb
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\obj\Debug\net5.0\ConsoleApp3LoseCouplingP.genruntimeconfig.cache
+C:\Users\107015\Desktop\Backend.NET\ConsoleApp3LoseCouplingP\ConsoleApp3LoseCouplingP\obj\Debug\net5.0\ConsoleApp3LoseCouplingP.csproj.AssemblyReference.cache

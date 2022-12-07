@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1>@ViewData["Title"]</h1>
+
+    @{
+        var employee = ViewData["Employee"] as EmptyAspProject.Modal.Employee ;
+    }
+
+    <h3>Name : @employee.name</h3>
+    <h3>Email : @employee.email</h3>
+    <h3>age : @employee.age</h3>
+    <h3>Id : @employee.id</h3>
+    
+
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,16 @@
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\bin\Debug\net5.0\Substraction.exe
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\bin\Debug\net5.0\Substraction.deps.json
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\bin\Debug\net5.0\Substraction.runtimeconfig.json
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\bin\Debug\net5.0\Substraction.runtimeconfig.dev.json
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\bin\Debug\net5.0\Substraction.dll
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\bin\Debug\net5.0\ref\Substraction.dll
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\bin\Debug\net5.0\Substraction.pdb
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\obj\Debug\net5.0\Substraction.csproj.AssemblyReference.cache
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\obj\Debug\net5.0\Substraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\obj\Debug\net5.0\Substraction.AssemblyInfoInputs.cache
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\obj\Debug\net5.0\Substraction.AssemblyInfo.cs
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\obj\Debug\net5.0\Substraction.csproj.CoreCompileInputs.cache
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\obj\Debug\net5.0\Substraction.dll
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\obj\Debug\net5.0\ref\Substraction.dll
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\obj\Debug\net5.0\Substraction.pdb
+C:\Users\107015\Desktop\Backend.NET\Substraction\Substraction\obj\Debug\net5.0\Substraction.genruntimeconfig.cache

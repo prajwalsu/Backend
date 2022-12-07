@@ -1,0 +1,43 @@
+﻿@model JobApplication
+@{
+    ViewData["Title"] = "Job Application";
+}
+
+<h2>Job Application</h2>
+
+<form class="m-1 p-1" method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DOB"></label>
+        <input asp-for="DOB" type="text" asp-format="{0:d}" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Sex"></label>
+        <div>
+            <input asp-for="Sex" type="radio" value="M" />Male
+            <input asp-for="Sex" type="radio" value="F" />Female
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="Experience"></label>
+        <select asp-for="Experience" class="form-control">
+            <option value="Select">Select</option>
+            <option value="0">Fresher</option>
+            <option value="1">0-1 years</option>
+            <option value="2">1-2 years</option>
+            <option value="3">2-3 years</option>
+            <option value="4">3-4 years</option>
+            <option value="5">4-5 years</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <input asp-for="TermsAccepted" />
+        <label asp-for="TermsAccepted" class="form-check-label">
+            I accept the terms & conditions
+        </label>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit Application</button>
+</form>

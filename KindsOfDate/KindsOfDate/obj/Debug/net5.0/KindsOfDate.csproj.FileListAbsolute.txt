@@ -1,0 +1,16 @@
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\bin\Debug\net5.0\KindsOfDate.exe
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\bin\Debug\net5.0\KindsOfDate.deps.json
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\bin\Debug\net5.0\KindsOfDate.runtimeconfig.json
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\bin\Debug\net5.0\KindsOfDate.runtimeconfig.dev.json
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\bin\Debug\net5.0\KindsOfDate.dll
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\bin\Debug\net5.0\ref\KindsOfDate.dll
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\bin\Debug\net5.0\KindsOfDate.pdb
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\obj\Debug\net5.0\KindsOfDate.csproj.AssemblyReference.cache
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\obj\Debug\net5.0\KindsOfDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\obj\Debug\net5.0\KindsOfDate.AssemblyInfoInputs.cache
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\obj\Debug\net5.0\KindsOfDate.AssemblyInfo.cs
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\obj\Debug\net5.0\KindsOfDate.csproj.CoreCompileInputs.cache
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\obj\Debug\net5.0\KindsOfDate.dll
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\obj\Debug\net5.0\ref\KindsOfDate.dll
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\obj\Debug\net5.0\KindsOfDate.pdb
+C:\Users\107015\Desktop\Backend.NET\KindsOfDate\KindsOfDate\obj\Debug\net5.0\KindsOfDate.genruntimeconfig.cache

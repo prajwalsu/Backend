@@ -1,0 +1,30 @@
+﻿
+@model WebApplicationEmpty.ViewModels.HomeDetailsViewModel  
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    @*<h1> @ViewData["Title"]</h1>
+        @{
+            var employee = ViewData["Employee"] as WebApplicationEmpty.Modal.Employee;
+        }
+
+        <h3> Age: @employee.age</h3>
+        <h3> Id: @employee.id</h3>
+        <h3> Name: @employee.name</h3>*@
+
+    <h1> @Model.Title</h1>
+
+    @*<h3> Age: @ViewBag.employee.age</h3>
+    <h3> Id: @ViewBag.employee.id</h3>
+    <h3> Name: @ViewBag.employee.name</h3>*@
+
+    <h3> Age: @Model.employee.age</h3>
+    <h3> Id: @Model.employee.id</h3>
+    <h3> Name: @Model.employee.name</h3>
+
+</body>
+</html>

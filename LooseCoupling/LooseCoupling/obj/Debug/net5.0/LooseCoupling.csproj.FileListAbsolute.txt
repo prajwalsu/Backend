@@ -1,0 +1,15 @@
+C:\Users\107061\Desktop\.NET\LooseCoupling\LooseCoupling\bin\Debug\net5.0\LooseCoupling.exe
+C:\Users\107061\Desktop\.NET\LooseCoupling\LooseCoupling\bin\Debug\net5.0\LooseCoupling.deps.json
+C:\Users\107061\Desktop\.NET\LooseCoupling\LooseCoupling\bin\Debug\net5.0\LooseCoupling.runtimeconfig.json
+C:\Users\107061\Desktop\.NET\LooseCoupling\LooseCoupling\bin\Debug\net5.0\LooseCoupling.runtimeconfig.dev.json
+C:\Users\107061\Desktop\.NET\LooseCoupling\LooseCoupling\bin\Debug\net5.0\LooseCoupling.dll
+C:\Users\107061\Desktop\.NET\LooseCoupling\LooseCoupling\bin\Debug\net5.0\ref\LooseCoupling.dll
+C:\Users\107061\Desktop\.NET\LooseCoupling\LooseCoupling\bin\Debug\net5.0\LooseCoupling.pdb
+C:\Users\107061\Desktop\.NET\LooseCoupling\LooseCoupling\obj\Debug\net5.0\LooseCoupling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\.NET\LooseCoupling\LooseCoupling\obj\Debug\net5.0\LooseCoupling.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\.NET\LooseCoupling\LooseCoupling\obj\Debug\net5.0\LooseCoupling.AssemblyInfo.cs
+C:\Users\107061\Desktop\.NET\LooseCoupling\LooseCoupling\obj\Debug\net5.0\LooseCoupling.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\.NET\LooseCoupling\LooseCoupling\obj\Debug\net5.0\LooseCoupling.dll
+C:\Users\107061\Desktop\.NET\LooseCoupling\LooseCoupling\obj\Debug\net5.0\ref\LooseCoupling.dll
+C:\Users\107061\Desktop\.NET\LooseCoupling\LooseCoupling\obj\Debug\net5.0\LooseCoupling.pdb
+C:\Users\107061\Desktop\.NET\LooseCoupling\LooseCoupling\obj\Debug\net5.0\LooseCoupling.genruntimeconfig.cache

@@ -1,0 +1,105 @@
+C:\Users\admin\source\repos\ASP.NetEmpty3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\admin\source\repos\ASP.NetEmpty3\bin\Debug\net5.0\appsettings.json
+C:\Users\admin\source\repos\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.exe
+C:\Users\admin\source\repos\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.deps.json
+C:\Users\admin\source\repos\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.runtimeconfig.json
+C:\Users\admin\source\repos\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.runtimeconfig.dev.json
+C:\Users\admin\source\repos\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.dll
+C:\Users\admin\source\repos\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.pdb
+C:\Users\admin\source\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.AssemblyInfo.cs
+C:\Users\admin\source\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\ASP.NetEmpty3\obj\Debug\net5.0\scopedcss\bundle\ASP.NetEmpty3.styles.css
+C:\Users\admin\source\repos\ASP.NetEmpty3\obj\Debug\net5.0\staticwebassets\ASP.NetEmpty3.StaticWebAssets.Manifest.cache
+C:\Users\admin\source\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.RazorTargetAssemblyInfo.cache
+C:\Users\admin\source\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.dll
+C:\Users\admin\source\repos\ASP.NetEmpty3\obj\Debug\net5.0\refint\ASP.NetEmpty3.dll
+C:\Users\admin\source\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.pdb
+C:\Users\admin\source\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.genruntimeconfig.cache
+C:\Users\admin\source\repos\ASP.NetEmpty3\obj\Debug\net5.0\ref\ASP.NetEmpty3.dll
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.AssemblyInfo.cs
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.dll
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\refint\ASP.NetEmpty3.dll
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.pdb
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\bin\Debug\net5.0\appsettings.json
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.exe
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.deps.json
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.runtimeconfig.json
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.runtimeconfig.dev.json
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.dll
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.pdb
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.Views.dll
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.Views.pdb
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\scopedcss\bundle\ASP.NetEmpty3.styles.css
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\staticwebassets\ASP.NetEmpty3.StaticWebAssets.Manifest.cache
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.TagHelpers.input.cache
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.TagHelpers.output.cache
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.RazorCoreGenerate.cache
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.RazorTargetAssemblyInfo.cs
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.Views.pdb
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.genruntimeconfig.cache
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ref\ASP.NetEmpty3.dll
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.csproj.CopyComplete
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\Home\_ViewStart.cshtml.g.cs
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\bin\Debug\net5.0\libman.json
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\Home\Details1.cshtml.g.cs
+C:\Users\admin\Desktop\.NET file\repos\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\Home\EnvTests.cshtml.g.cs
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\bin\Debug\net5.0\appsettings.json
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\bin\Debug\net5.0\libman.json
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.exe
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.deps.json
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.runtimeconfig.json
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.runtimeconfig.dev.json
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.dll
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\bin\Debug\net5.0\ref\ASP.NetEmpty3.dll
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.pdb
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.Views.dll
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\bin\Debug\net5.0\ASP.NetEmpty3.Views.pdb
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.csproj.AssemblyReference.cache
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.AssemblyInfoInputs.cache
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.AssemblyInfo.cs
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.csproj.CoreCompileInputs.cache
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.RazorAssemblyInfo.cache
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.RazorAssemblyInfo.cs
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\staticwebassets\ASP.NetEmpty3.StaticWebAssets.Manifest.cache
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\staticwebassets\ASP.NetEmpty3.StaticWebAssets.xml
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\scopedcss\bundle\ASP.NetEmpty3.styles.css
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.TagHelpers.input.cache
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.TagHelpers.output.cache
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.RazorCoreGenerate.cache
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\Home\Details1.cshtml.g.cs
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\Home\EnvTests.cshtml.g.cs
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\Home\_ViewStart.cshtml.g.cs
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.RazorTargetAssemblyInfo.cache
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.RazorTargetAssemblyInfo.cs
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.Views.pdb
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.dll
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ref\ASP.NetEmpty3.dll
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.pdb
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.genruntimeconfig.cache
+C:\Users\107015\Desktop\Backend.NET\ASP.NetEmpty3\obj\Debug\net5.0\ASP.NetEmpty3.csproj.CopyComplete

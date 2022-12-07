@@ -1,0 +1,14 @@
+﻿				*GRASP*
+
+General Responsibility assembling principles
+
+Paterns:9
+	Creator
+	Information expert
+	Low coupling
+	Controller
+	High cohesion
+	Indirection
+	Polymorphism
+	Protected variations
+	Pure fabrication

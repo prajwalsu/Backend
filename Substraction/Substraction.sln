@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substraction", "Substraction\Substraction.csproj", "{EA93280B-FCFF-4F7A-A0AB-833F33675E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstractionTests", "SubstractionTests\SubstractionTests.csproj", "{9893BCE3-5B28-4F2F-B624-70C0420789E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA93280B-FCFF-4F7A-A0AB-833F33675E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA93280B-FCFF-4F7A-A0AB-833F33675E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA93280B-FCFF-4F7A-A0AB-833F33675E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA93280B-FCFF-4F7A-A0AB-833F33675E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9893BCE3-5B28-4F2F-B624-70C0420789E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9893BCE3-5B28-4F2F-B624-70C0420789E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9893BCE3-5B28-4F2F-B624-70C0420789E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9893BCE3-5B28-4F2F-B624-70C0420789E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15B2B5CE-DA39-4455-8FC4-B14819E587E6}
+	EndGlobalSection
+EndGlobal
