@@ -1,0 +1,44 @@
+﻿@model IEnumerable<DictionaryWebApp.Models.Dictionary>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+
+@foreach (var item in Model) {
+
+
+ 
+
+
+        @*<div class="card border-primary mb-3" style="max-width: 18rem;">
+            <div class="card-header bg-primary fw-bold">@Html.DisplayNameFor(model => model.Name)</div>
+            <div class="card-body text-success">
+                <h5 class="card-title fst-italic">@Html.DisplayFor(modelItem => item.Name)</h5>
+               <a asp-action="edit" asp-route-id="@item.Id fw-lighter">Edit</a>|
+               <a asp-action="Details" asp-route-id="@item.Id fw-lighter">Details</a>|
+               <a asp-action="Delete" asp-route-id="@item.Id fw-lighter">Delete</a>
+            </div>
+        </div>*@
+
+
+
+        <div class="card text-dark bg-warning border-primary mb-3" style="max-width: 18rem;">
+            <div class="card-header bg-primary bg-gradient fw-bold">@Html.DisplayNameFor(model => model.Name)</div>
+            <div class="card-body bg-transparent">
+                <h5 class="card-title fst-italic ">@Html.DisplayFor(modelItem => item.Name)</h5>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+
+            </div>
+        </div>
+        }
+
+
+        
